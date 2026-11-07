@@ -1,0 +1,2 @@
+Producto: clavo | Precio: 10 | Cantidad: 5
+Producto: cemento | Precio: 240 | Cantidad: 2
